@@ -1,8 +1,12 @@
 /include
 /bin
 /lib/python3*
+/lib/spaz.*
 /etc
 /share
+/*
 
 pyvenv.cfg
 requirements.txt
+
+*.ipynb
