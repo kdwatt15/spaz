@@ -1,4 +1,8 @@
 /include
 /bin
 /lib/python3*
+/etc
+/share
+
 pyvenv.cfg
+requirements.txt
