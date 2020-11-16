@@ -6,6 +6,7 @@
 /etc
 /Scripts
 /share
+.ipynb_checkpoints*
 
 pyvenv.cfg
 requirements.txt
