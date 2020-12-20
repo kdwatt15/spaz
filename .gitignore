@@ -4,7 +4,8 @@
 /lib/spaz.*
 /etc
 /share
-/*
+*.ipynb_checkpoints
+*__pycache__*
 
 pyvenv.cfg
 requirements.txt
