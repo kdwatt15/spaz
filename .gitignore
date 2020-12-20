@@ -1,12 +1,14 @@
-/include
+/Include
 /bin
-/lib/python3*
-/lib/spaz.*
+/Lib/python3*
+/Lib/spaz.egg-info
+/Lib/site-packages
 /etc
+/Scripts
 /share
+
 *.ipynb_checkpoints
 *__pycache__*
 
 pyvenv.cfg
 requirements.txt
-
